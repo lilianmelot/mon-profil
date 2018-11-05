@@ -1,0 +1,35 @@
+
+body {
+  background-color: orange;
+  color: orange;
+
+}
+
+
+
+
+
+h2 {
+	font-size: 20px;
+	color: blue;
+	letter-spacing: 10px;
+}
+
+h3{
+	color: grey;
+	font-size:24px;
+}
+   nav{
+   	height: 60px
+   	background: orange ;
+   	margin-left: 0%
+   	margin-right: 0%;
+}
+
+body{
+	font-family: Calibri;
+	background-color: #033fff;
+}
+.img-circle{
+	border-radius:50%;
+}

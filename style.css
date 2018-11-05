@@ -1,0 +1,107 @@
+
+body {
+	
+	color: blue;
+
+	font-size: 19px;
+	font-family: 'Lora', serif;
+	text-align: justify;
+	font-weight: lighter;
+
+	line-height: 1.5;
+	letter-spacing: 1px;
+	
+}
+
+h1, h2, h3 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: lighter;
+}
+
+h1 {
+	color:  blue;
+	font-weight: 500;
+	font-size: 25px;
+}
+
+h2 {
+	color: orange;
+	font-weight: 500;
+	font-size: 18px;
+}
+
+a {
+	font-family: 'Roboto', sans-serif;
+	font-size: 17px;
+	font-weight: 600;
+	text-decoration: none;
+	color: blue;
+}
+
+a:hover {
+	color: white;
+}
+
+
+/*custom design with class*/
+
+.container {
+	width: 700px;
+	margin: 40px auto;
+
+}
+
+
+
+.card-white {
+	background-color: white;
+	padding: 40px;
+	margin: 50px 0px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	border-radius: 4px;
+	text-align: center;
+}
+
+
+
+.img-circle {
+	border-radius: 50%;
+
+}
+
+.button-blue {
+	background-color: blue;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+
+}
+
+.button-blue {
+	background-color: blue;
+	color: white;
+}
+
+.list-horizontal {
+	list-style: none;
+	padding-left: 0px;
+	color: blue;
+}
+
+.list-horizontal li {
+	display: inline;
+	padding: 10px;
+}
+
+.list-horizontal i {
+	font-size: 50px;
+	color: rgb(230,230,230);
+}
+
+.list-horizontal i:hover {
+	color: blue;
+}
+
+#introduction p {
+	margin-bottom: 40px;
+}
